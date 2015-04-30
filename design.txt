@@ -1,0 +1,6 @@
+Flow:
+GUI with 14 fields (for both weeks)
+entry button
+calculates total time worked, time remaining to quota
+
+GUI:
